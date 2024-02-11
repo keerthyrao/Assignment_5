@@ -1,4 +1,5 @@
-# Assignment_5
+Assignment-5
+
 Here is the video recording with detailed explanation: 
 
 Implement Naïve Bayes method using scikit-learn library Use dataset available with name glass Use train_test_split to create training and testing part Evaluate the model on test part using score and classification_report(y_true, y_pred)
